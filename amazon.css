@@ -100,7 +100,7 @@
     font-size: 1.3125rem;
     color: #0f1111;
 }
-.nav-search:hover{
+.nav-search:focus{
     border: 2.5px solid orange;
     border-radius: 5px;
 }
